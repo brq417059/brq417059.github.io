@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://galaxysamurai.com/tags/index.html</loc>
-    
-    <lastmod>2020-11-26T09:36:23.392Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://galaxysamurai.com/friends/index.html</loc>
     
-    <lastmod>2020-11-26T09:36:23.387Z</lastmod>
+    <lastmod>2020-12-15T13:22:49.400Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://galaxysamurai.com/contact/index.html</loc>
     
-    <lastmod>2020-11-26T09:36:23.387Z</lastmod>
+    <lastmod>2020-12-15T13:22:29.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://galaxysamurai.com/about/index.html</loc>
+    
+    <lastmod>2020-12-15T13:18:30.494Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://galaxysamurai.com/tags/index.html</loc>
+    
+    <lastmod>2020-11-26T09:36:23.392Z</lastmod>
     
   </url>
   
@@ -31,13 +38,6 @@
   
   <url>
     <loc>http://galaxysamurai.com/archives/index.html</loc>
-    
-    <lastmod>2020-11-26T09:36:23.385Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://galaxysamurai.com/about/index.html</loc>
     
     <lastmod>2020-11-26T09:36:23.385Z</lastmod>
     
