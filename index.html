@@ -421,6 +421,16 @@
         };
 
         
+        // prev and next cover post.
+        $('#prev-cover').click(function () {
+            coverSlider.carousel('prev');
+            restartPlay();
+        });
+        $('#next-cover').click(function () {
+            coverSlider.carousel('next');
+            restartPlay();
+        });
+        
     });
 </script>
 
@@ -599,6 +609,12 @@
 
     
 </style>
+
+
+<script src="/libs/aplayer/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+
+
 <div class="">
     
     <div class="row">
@@ -612,15 +628,12 @@
                    loop='all'
                    order='random'
                    preload='auto'
-                   volume='0.7'
+                   volume='0.6'
                    list-folded='true'
         >
         </meting-js>
     </div>
 </div>
-
-<script src="/libs/aplayer/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
 
     
     <div class="container row center-align" style="margin-bottom: 15px !important;">
@@ -893,6 +906,61 @@ $(function () {
     <script src="/libs/instantpage/instantpage.js" type="module"></script>
     
 
+    
+        <script type="text/javascript">
+            //只在桌面版网页启用特效
+            var windowWidth = $(window).width();
+            if (windowWidth > 768) {
+                document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
+            }
+        </script>
+    
+
+    
+        
+    <script>
+        ap = null
+        Object.defineProperty(document.getElementById('5382518262'),"aplayer",{
+            set: function(aplayer) {
+                ap=aplayer
+                ready();
+            }
+        });
+        
+        isRecover = false;
+        function ready(){
+            ap.on('canplay', function () {
+                if(!isRecover){
+                    if(localStorage.getItem("musicIndex") != null){
+                        musicIndex = localStorage.getItem("musicIndex");
+                        musicTime = localStorage.getItem("musicTime");
+                    if(ap.list.index != musicIndex){
+                        ap.list.switch(musicIndex);
+                    }else{
+                        ap.seek(musicTime);
+                        ap.play();
+                        localStorage.clear();
+                        isRecover = true;
+                    }
+                    }else{
+                        isRecover = true;
+                    }
+                }
+            });
+        }
+
+        window.onbeforeunload = function(event) {
+            if(!ap.audio.paused){
+				ap.pause();
+                musicIndex = ap.list.index;
+                musicTime = ap.audio.currentTime;
+                localStorage.setItem("musicIndex",musicIndex);
+                localStorage.setItem("musicTime",musicTime);
+            }
+        };
+    
+    </script>
+    
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"right","width":150,"height":300,"superSample":2,"hOffset":60,"vOffset":-20},"mobile":{"show":false},"react":{"opacityDefault":0.7,"opacityOnHover":0.2}});</script></body>
 
 </html>
