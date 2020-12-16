@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://galaxysamurai.com/"/>
-  <updated>2020-11-26T09:36:23.343Z</updated>
+  <updated>2020-12-16T14:02:02.181Z</updated>
   <id>http://galaxysamurai.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>十大经典排序算法整理汇总（附代码）</title>
-    <link href="http://galaxysamurai.com/2020/02/16/sort-algorithms/"/>
-    <id>http://galaxysamurai.com/2020/02/16/sort-algorithms/</id>
-    <published>2020-02-16T07:09:23.000Z</published>
-    <updated>2020-11-26T09:36:23.343Z</updated>
+    <title>观黑天鹅有感</title>
+    <link href="http://galaxysamurai.com/2020/12/16/guan-hei-tian-e-you-gan/"/>
+    <id>http://galaxysamurai.com/2020/12/16/guan-hei-tian-e-you-gan/</id>
+    <published>2020-12-16T13:33:47.000Z</published>
+    <updated>2020-12-16T14:02:02.181Z</updated>
     
     <summary type="html">
     
@@ -29,22 +29,15 @@
       
         
         
-          &lt;blockquote&gt;
-&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
-&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
+          &lt;p&gt;哎呀呀&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/brq417059/blog-pictures/raw/master/img/20201216220124.jpg&quot;
         
       
     
     </summary>
     
-      <category term="编程算法" scheme="http://galaxysamurai.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+      <category term="随笔" scheme="http://galaxysamurai.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
-    
-      <category term="leetcode" scheme="http://galaxysamurai.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="http://galaxysamurai.com/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
