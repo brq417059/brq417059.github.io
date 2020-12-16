@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://galaxysamurai.com/contact/index.html</loc>
+    
+    <lastmod>2020-12-16T07:42:32.517Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://galaxysamurai.com/about/index.html</loc>
     
     <lastmod>2020-12-16T01:17:05.313Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://galaxysamurai.com/friends/index.html</loc>
     
     <lastmod>2020-12-15T13:22:49.400Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://galaxysamurai.com/contact/index.html</loc>
-    
-    <lastmod>2020-12-15T13:22:29.387Z</lastmod>
     
   </url>
   
