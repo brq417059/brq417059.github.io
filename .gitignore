@@ -4,3 +4,6 @@ Thumbs.db
 public/
 .deploy*/
 .vscode/
+db.json
+node_modules/
+CNAME
