@@ -2,8 +2,8 @@
 Thumbs.db
 *.log
 public/
+node_modules/
 .deploy*/
 .vscode/
 db.json
-node_modules/
 CNAME
