@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: bbq的地盘
-subtitle: 养猪的，杀猪的，吃肉的。
+title: bbq的小家
+subtitle: 好想说点什么~
 description: 摸鱼
 keywords: "摸鱼 摸鱼 摸鱼"
 author: bbq
@@ -144,5 +144,5 @@ live2d:
 baidu_url_submit:
   count: 100
   host: galaxysamurai.com
-  token:  # 填写你的百度统计token，不写也没事
+  token:  5b6a6e257184baa6fe19c81c9a411049
   path: baidu_urls.txt
