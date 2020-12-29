@@ -33,6 +33,7 @@
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
     "hexo-wordcount": "*",
+    "jquery-pjax": "^2.0.1",
     "live2d-widget-model-wanko": "*",
     "minivaline": "^5.0.0-alpha.20",
     "picgo": "^1.4.12",
