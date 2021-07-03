@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>bbq的小家</title>
+  
+  <subtitle>好想说点什么</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://galaxysamurai.com/"/>
+  <updated>2021-07-03T13:10:21.240Z</updated>
+  <id>https://galaxysamurai.com/</id>
+  
+  <author>
+    <name>baoruiqi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://galaxysamurai.com/2021/07/03/yi-xie-jin-qi-de-si-kao/"/>
+    <id>https://galaxysamurai.com/2021/07/03/yi-xie-jin-qi-de-si-kao/</id>
+    <published>2021-07-03T13:36:11.211Z</published>
+    <updated>2021-07-03T13:10:21.240Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;昨天帮学院一位同学跑材料。上午10点40出发，下午4点25结束，时间跨度拉得蛮长。常理来讲繁杂且令人头疼的事，不仅没有让我感到疲倦厌烦，反觉收获颇丰，心情甚至可以说是愉悦。种种体会，难一言以蔽，在此稍作记录，既是总结，也是对自己的肯定和勉励。&lt;/p&gt;
+&lt;p&gt;接手任务的时候，
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://galaxysamurai.com/2021/07/03/hello-world/"/>
+    <id>https://galaxysamurai.com/2021/07/03/hello-world/</id>
+    <published>2021-07-03T13:18:48.215Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>那些说不出口的梦想和看不清颜色的人生</title>
+    <link href="https://galaxysamurai.com/2020/12/29/na-xie-shuo-bu-chu-kou-de-meng-xiang-he-kan-bu-qing-yan-se-de-ren-sheng/"/>
+    <id>https://galaxysamurai.com/2020/12/29/na-xie-shuo-bu-chu-kou-de-meng-xiang-he-kan-bu-qing-yan-se-de-ren-sheng/</id>
+    <published>2020-12-29T01:38:07.000Z</published>
+    <updated>2020-12-29T01:51:35.223Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;　　事情是这个样子。&lt;/p&gt;
+&lt;p&gt;　　前段时间，大概一个多月前。晚上我一回宿舍就被冷暴力了，哥几个明摆着对我视而不见。我厚着脸皮套天健话，天健憋了好一会儿，忿忿地质问我还好意思问他。旁边的咕咕鸡也顺势开始阴阳怪气我，我嬉着的脸皮顿时有点挂不住了——确实，我又一次把宿舍聚餐
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://galaxysamurai.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>观黑天鹅有感</title>
+    <link href="https://galaxysamurai.com/2020/12/16/guan-hei-tian-e-you-gan/"/>
+    <id>https://galaxysamurai.com/2020/12/16/guan-hei-tian-e-you-gan/</id>
+    <published>2020-12-16T13:33:47.000Z</published>
+    <updated>2020-12-18T03:51:35.342Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://galaxysamurai.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+</feed>
